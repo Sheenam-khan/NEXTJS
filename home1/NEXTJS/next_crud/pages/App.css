@@ -1,0 +1,24 @@
+ .Cards{
+   width:300;
+   height :100;
+ }
+ * {
+  box-sizing: border-box;
+}
+
+.colorRow{
+ background-color:lightsalmon;
+/* color:white */
+}
+
+.colorRows{
+  background-color:blue;
+ 
+ }
+ 
+ #columnProperty{
+   font-size: 1.2rem;;
+   color: #001529;
+ }
+
+
